@@ -1,34 +1,60 @@
-## Graeme Stirling
+# Graeme Stirling
 
-#A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
-Recently moved into a career change into software development after completing a remote 16 week intensive bootcamp with Makers Academy. After spending the last five years living abroad working in the snow-sports industry I needed a new challenge and wanted a new career that allow me to grow professionally.
+Recently graduated from a remote 16 week intensive bootcamp with Makers Academy. After spending the last five years living abroad working in the snow-sports industry I needed a new challenge and desired a new career that allow me to grow. As a person I am very reflective, value good social skills/honesty and have a high emotional awareness.
 
 Working as a coach helped me develop a strong competency in communication, leadership, managing difficult situations and working effectively with my peers. These skills were incredibly useful when working on group projects or in pairing tasks. Allowing me to ensure teams were always moving forward and enjoying the learning process. I received frequent commendation for this from my peers describing the working environment as calm, positive and productive.  
 
-My recent experience at Makers really allowed me to understand how to become an effective learner. Accepting when something is difficult, using it as a motivator to grow and become a better developer. I am a strong believer in having a good working process by following best practices such as test driven development, isolation/single responsibility principle and working incrementally. Allowing my work to be clear, concise and fluid.   
+Makers have really helped me to understand how to become an effective learner. Accepting when something is challenging, using it as a motivator to grow and become better. The course taught me that I have capability to pick up any language/stack and build an application that could improve the lives of others. This greatly excites and motivates me as I search for my first role.      
 
-As a person I am very reflective, value good social skills/honesty and have a high emotional awareness. 
+## Team Projects
 
+| Name                         | Description                                                                               | Tech/tools                  |
+| ---------------------------- | -----------------                                                                         | -----------------           |
+| **Code4Kids**                | A webapp to introduce software fundamentals to children.                                  | MERN, Jest, HTML, Javascript|
+| **Acebook**                  | A team project creating a clone of facebook using Ruby on Rails                           | Ruby, HTML, CSS             |
 
-## Projects
+## Individual Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Code4Kids**            | A webapp to teach coding to children. | MERN, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                                               | Tech/tools                  |
+| ---------------------------- | -----------------                                                                         | -----------------           |
+| **Chitter**                  | A twitter style clone full stack application.                                             | Ruby, HTML, CSS, SQL        |
 
 ## Work Experience
 
-**Whistler Blackcomb** (11/2016 to 04/2021) Seasonal   
+<details>
+  <summary>Click to expand</summary>
+  
+**Muckhart Golf Club** (03/2021 to 07/2021) Part-time   
+Shop Assistant
+
+**The Bottle Shop** (04/2020 to 03/2021) Part-time   
+Shop Assistant
+
+**Whistler Blackcomb, Canada** (11/2016 to 04/2021) Seasonal   
 Freestyle Development Program Coach and Staff Trainer
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Thredbo Resort, Australia** (06/2019 to 10/2019) Seasonal   
+Moguls Coach/Instructor
+
+**Whistler Blackcomb, Canada** (07/2018 to 10/2018) Seasonal   
+Guest Services 
+
+**Whistler Bike Rentals, Canada** (07/2018 to 10/2018) Seasonal   
+Shop assistant
+
+**Muircot Farmshop, Scotland** (07/2016 to 11/2016) Full-time   
+Service Staff
+
+**Niseko Base Snowsports, Japan** (11/2015 to 03/2016) Seasonal   
+Adults Instructor
+  
+ - Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
+</details>
 
 ## Skills
 
@@ -63,13 +89,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (26/07/2021 - 15/10/2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Paired to effectively solve problems and improve communication  
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Jest 
 
 #### University of Glasgow (09/2009 - 07/2014)
 
@@ -80,6 +104,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Hobbies and interests 
 
-Any cool stuff that makes you a super part of a software development team
+**Outdoor Activities:**
+In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of physical activity.    
+
+**Formula One:**
+What interests me in particular is the way team dynamics can boost performance and the mental resilience drivers need to overcome great external pressure. I also love listening to insights on technical innovations introduced by teams to give them a competitive edge and how strategy can determine the outcome of a race.
+
+**Cooking/Baking:**
+Very inspired by asian flavours and dishes. Also enjoy making simple tasty baked goods. 
