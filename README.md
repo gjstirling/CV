@@ -11,7 +11,7 @@ Makers have really helped me to understand how to become an effective learner. A
 | Name                         | Description                                                                               | Tech/tools                  |
 | ---------------------------- | -----------------                                                                         | -----------------           |
 | **Code4Kids**                | A webapp to introduce software fundamentals to children.                                  | MERN, Jest, HTML, Javascript|
-| **Acebook**                  | A team project creating a clone of facebook using Ruby on Rails                           | Ruby, HTML, CSS             |
+| **Acebook**                  | A team project creating a clone of facebook using Ruby on Rails                           | Ruby on Rails, HTML, CSS    |
 
 ## Individual Projects
 
@@ -25,43 +25,42 @@ Makers have really helped me to understand how to become an effective learner. A
   <summary>Click to expand</summary>
   
 **Muckhart Golf Club** (03/2021 to 07/2021) Full-time   
-Shop Assistant
+Role: Shop Assistant
 
 **The Bottle Shop** (04/2020 to 03/2021) Full-time  
-Shop Assistant
+Role: Shop Assistant
 
-**Whistler Blackcomb, Canada** (11/2016 to 04/2021) Full-time Seasonal    
-Freestyle Development Program Coach and Staff Trainer
-
-**Thredbo Resort, Australia** (06/2019 to 10/2019) Full-time Seasonal    
-Moguls Coach/Instructor
-
-**Various Retail Roles, Canada** (04/2017 to 10/2018) Full-time Seasonal   
-Shop Assistant 
-
-**Muircot Farmshop, Scotland** (07/2016 to 11/2016) Full-time   
-Service Staff
-
-**Niseko Base Snowsports, Japan** (11/2015 to 03/2016) Full-time Seasonal    
-Adults Instructor
+**Whistler Blackcomb, Canada**                                      (11/2016 to 04/2021) Full-time Seasonal    
+Role: Freestyle Development Program Coach and Staff Trainer
+  - Worked in a team to deliver a season long childrens development program 
+  - Organised/lead training for new/inexperianced staff members
+  - Lead optional training sessions to encourage professional devleopment for staff  
   
-**Gnomes Alpine Sports, New Zealand** (06/2015 to 10/2016) Full-time Seasonal  
-Ski Boot Fitter 
+**Thredbo Resort, Australia**                                       (06/2019 to 10/2019) Full-time Seasonal    
+Role: Moguls Coach/Instructor
+  - Contributed as a team member to a season long schools program
   
-**Ellis Brigham, Scotland** (09/2014 to 03/2015) Full-time Seasonal  
-Ski Boot Fitter
-  
-**Snow Factor, Scotland** (01/2011 to 05/2015) Part-time   
-Sabatical from University (09/2012 to 09/2013) Full-time
-Snowsports Instructor 
-  
-  
- - Any experience, including roles and responsibilities and results achived in bullet point format.
+**Various Retail Roles, Canada**                                    (04/2017 to 10/2018) Full-time Seasonal   
+Role: Shop Assistant 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Muircot Farmshop, Scotland**                                      (07/2016 to 11/2016) Full-time   
+Role: Service Staff
 
-- Any experience relevent to software development
+**Niseko Base Snowsports, Japan**                                   (11/2015 to 03/2016) Full-time Seasonal    
+Role: Adults Instructor
+  - Brought return business through referrals 
+  - Provided Flexibility with ability to teach both Ski and Snowboard to a high level 
+  
+**Gnomes Alpine Sports, New Zealand**                               (06/2015 to 10/2016) Full-time Seasonal  
+Role: Ski Boot Fitter 
+  
+**Ellis Brigham, Scotland**                                         (09/2014 to 03/2015) Full-time Seasonal  
+Role: Ski Boot Fitter
+  
+**Snow Factor, Scotland**                                           (01/2011 to 05/2015) Part-time   
+(Sabatical year from University)                                    (09/2012 to 09/2013) Full-time
+Role: Snowsports Instructor 
+  
 </details>
 
 ## Skills
@@ -79,13 +78,31 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Communication 
 
 - Experience
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+
+#### Leadership 
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Problem Solving  
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+
+#### Active Listener  
+
+- Experience
+- Achievements
+- Evidence (STAR)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
