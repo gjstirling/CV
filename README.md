@@ -24,29 +24,37 @@ Makers have really helped me to understand how to become an effective learner. A
 <details>
   <summary>Click to expand</summary>
   
-**Muckhart Golf Club** (03/2021 to 07/2021) Part-time   
+**Muckhart Golf Club** (03/2021 to 07/2021) Full-time   
 Shop Assistant
 
-**The Bottle Shop** (04/2020 to 03/2021) Part-time   
+**The Bottle Shop** (04/2020 to 03/2021) Full-time  
 Shop Assistant
 
-**Whistler Blackcomb, Canada** (11/2016 to 04/2021) Seasonal   
+**Whistler Blackcomb, Canada** (11/2016 to 04/2021) Full-time Seasonal    
 Freestyle Development Program Coach and Staff Trainer
 
-**Thredbo Resort, Australia** (06/2019 to 10/2019) Seasonal   
+**Thredbo Resort, Australia** (06/2019 to 10/2019) Full-time Seasonal    
 Moguls Coach/Instructor
 
-**Whistler Blackcomb, Canada** (07/2018 to 10/2018) Seasonal   
-Guest Services 
-
-**Whistler Bike Rentals, Canada** (07/2018 to 10/2018) Seasonal   
-Shop assistant
+**Various Retail Roles, Canada** (04/2017 to 10/2018) Full-time Seasonal   
+Shop Assistant 
 
 **Muircot Farmshop, Scotland** (07/2016 to 11/2016) Full-time   
 Service Staff
 
-**Niseko Base Snowsports, Japan** (11/2015 to 03/2016) Seasonal   
+**Niseko Base Snowsports, Japan** (11/2015 to 03/2016) Full-time Seasonal    
 Adults Instructor
+  
+**Gnomes Alpine Sports, New Zealand** (06/2015 to 10/2016) Full-time Seasonal  
+Ski Boot Fitter 
+  
+**Ellis Brigham, Scotland** (09/2014 to 03/2015) Full-time Seasonal  
+Ski Boot Fitter
+  
+**Snow Factor, Scotland** (01/2011 to 05/2015) Part-time   
+Sabatical from University (09/2012 to 09/2013) Full-time
+Snowsports Instructor 
+  
   
  - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -88,7 +96,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (26/07/2021 - 15/10/2021)
+#### Makers Academy (28/06/2021 - 15/10/2021)
 - Paired to effectively solve problems and improve communication  
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -107,7 +115,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies and interests 
 
 **Outdoor Activities:**
-In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of physical activity.    
+In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
 
 **Formula One:**
 What interests me in particular is the way team dynamics can boost performance and the mental resilience drivers need to overcome great external pressure. I also love listening to insights on technical innovations introduced by teams to give them a competitive edge and how strategy can determine the outcome of a race.
