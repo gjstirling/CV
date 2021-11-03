@@ -28,19 +28,21 @@ Makers have really helped me to understand how to become an effective learner. A
 Role: Shop Assistant
 
 **The Bottle Shop** (04/2020 to 03/2021) Full-time  
-Role: Shop Assistant
+Role: Shop Assistant/Delivery Driver
+  - Delivered shop/website orders
+  - Opening/closing duties 
 
 **Whistler Blackcomb, Canada**                                      (11/2016 to 04/2021) Full-time Seasonal    
 Role: Freestyle Development Program Coach and Staff Trainer
-  - Worked in a team to deliver a season long childrens development program 
+  - Worked in a team delivering a season long development program 
   - Organised/lead training for new/inexperianced staff members
   - Lead optional training sessions to encourage professional devleopment for staff  
   
 **Thredbo Resort, Australia**                                       (06/2019 to 10/2019) Full-time Seasonal    
 Role: Moguls Coach/Instructor
-  - Contributed as a team member to a season long schools program
+  - Contributing team member to a successful season long schools program
   
-**Various Retail Roles, Canada**                                    (04/2017 to 10/2018) Full-time Seasonal   
+**Various Summer Seasonal Retail Roles, Canada**                    (04/2017 to 10/2018) Full-time Seasonal   
 Role: Shop Assistant 
 
 **Muircot Farmshop, Scotland**                                      (07/2016 to 11/2016) Full-time   
@@ -77,28 +79,18 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-
 #### Communication 
 
 - Experience
-- Achievements
-- Evidence (STAR)
-
-
+Working in teams/pairs on programming challenges with Makers Academy. Using agile processes to break work down into incremental tickets and keeping communication transparent in remote working enviroment.
+  
 #### Leadership 
 
-- Experience
-- Achievements
-- Evidence (STAR)
+Leading clients in dangerious and risky enviroments
 
 #### Problem Solving  
 
-- Experience
-- Achievements
-- Evidence (STAR)
-
-
-#### Active Listener  
+Working with challenging pair tasks/team projects 
 
 - Experience
 - Achievements
@@ -117,17 +109,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Paired to effectively solve problems and improve communication  
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, MERN
 - RSpec, Jasmine, Jest 
 
 #### University of Glasgow (09/2009 - 07/2014)
 
-- Bachelors of Engineering 
-- 2nd Class 
+- Bachelors of Engineering  
 
-#### Any other qualifications
+#### Other Qualifications/Achievements
 
-That in some arguable way make you a better software developer or well-rounded person
+- **University of Glasgow:** Half Blue in Snowsports <br>
+- **Duke of Edinburgh:** Gold
 
 ## Hobbies and interests 
 
