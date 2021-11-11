@@ -106,7 +106,7 @@ Makers have really helped me to understand how to become an effective learner. A
 ## Skills
 
 <details>
-  <summary>Skills</summary>
+  <summary>Click to expand</summary>
 
 #### Communication 
 
@@ -125,8 +125,6 @@ Leading clients in dangerious and risky enviroments
 </details>
 
 ## Education
-<details>
-  <summary>Summary</summary>
 
 ### Makers Academy, London &nbsp;  &nbsp; &nbsp;  &nbsp; (28/06/2021 - 15/10/2021) 					
 *Software Development Bootcamp*
@@ -163,8 +161,6 @@ Leading clients in dangerious and risky enviroments
 - **Glasgow University Sports Association:** Snowsports Club Captain 2013 
 - **Duke of Edinburgh:** Gold
   
- </details>
-
 ## Hobbies and interests 
 
 <details>
