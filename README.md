@@ -19,13 +19,35 @@ Makers have really helped me to understand how to become an effective learner. A
 | ---------------------------- | -----------------                                                                         | -----------------           |
 | **Chitter**                  | A twitter style clone full stack application.                                             | Ruby, HTML, CSS, SQL        |
 
-## Work Experience
+## Relevent Work Experiance 
+
+**Muckhart Golf Club**                                              (03/2021 to 07/2021) Full-time   
+Role: Shop Assistant
+  - Management of Tee times, incoming calls and stock
+  - Interacted with members to ensure club provided the best possible service
+
+**Whistler Blackcomb, Canada**                                      (11/2016 to 04/2021) Full-time Seasonal    
+Role: Freestyle Development Program Coach and Staff Trainer
+  - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
+  - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
+
+**Whistler Sports Rentals, Canada**                                 (04/2017 to 10/2018) Full-time Seasonal   
+Role: Rental Assistant 
+  - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
+  - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
+
+**Niseko Base Snowsports, Japan**                                   (11/2015 to 03/2016) Full-time Seasonal    
+Role: Snowsports Instructor
+  - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
+  - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Full Work experience</summary>
   
 **Muckhart Golf Club** (03/2021 to 07/2021) Full-time   
 Role: Shop Assistant
+  - Management of Tee times, incoming calls and stock
+  - Interacted with members to ensure club provided the best possible service
 
 **The Bottle Shop** (04/2020 to 03/2021) Full-time  
 Role: Shop Assistant/Delivery Driver
@@ -34,24 +56,25 @@ Role: Shop Assistant/Delivery Driver
 
 **Whistler Blackcomb, Canada**                                      (11/2016 to 04/2021) Full-time Seasonal    
 Role: Freestyle Development Program Coach and Staff Trainer
-  - Worked in a team delivering a season long development program 
-  - Organised/lead training for new/inexperianced staff members
-  - Lead optional training sessions to encourage professional devleopment for staff  
+  - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
+  - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
   
 **Thredbo Resort, Australia**                                       (06/2019 to 10/2019) Full-time Seasonal    
 Role: Moguls Coach/Instructor
   - Contributing team member to a successful season long schools program
   
-**Various Summer Seasonal Retail Roles, Canada**                    (04/2017 to 10/2018) Full-time Seasonal   
-Role: Shop Assistant 
+**Whistler Sports Rentals, Canada**                    (04/2017 to 10/2018) Full-time Seasonal   
+Role: Rental Assistant 
+  - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
+  - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
 
 **Muircot Farmshop, Scotland**                                      (07/2016 to 11/2016) Full-time   
 Role: Service Staff
 
 **Niseko Base Snowsports, Japan**                                   (11/2015 to 03/2016) Full-time Seasonal    
-Role: Adults Instructor
-  - Brought return business through referrals 
-  - Provided Flexibility with ability to teach both Ski and Snowboard to a high level 
+Role: Snowsports Instructor
+  - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
+  - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
   
 **Gnomes Alpine Sports, New Zealand**                               (06/2015 to 10/2016) Full-time Seasonal  
 Role: Ski Boot Fitter 
@@ -64,6 +87,11 @@ Role: Ski Boot Fitter
 Role: Snowsports Instructor 
   
 </details>
+
+## Skills
+
+<details>
+  <summary>Skills</summary>
 
 ## Skills
 
@@ -102,26 +130,57 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+  
+</details>
 
 ## Education
 
-#### Makers Academy (28/06/2021 - 15/10/2021)
-- Paired to effectively solve problems and improve communication  
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, MERN
-- RSpec, Jasmine, Jest 
+<details>
+  <summary>Education</summary>
+
+
+
+#### Makers Academy, London (28/06/2021 - 15/10/2021) 					
+*Software Development Bootcamp*
+- Intensive software development bootcamp focusing on TDD/BDD, OOP, and Agile processes
+- Multiple learning and working styles: self-led learning, pair programming challenges, and team engineering projects
+- Concepts introduced in Ruby/Javascript language 
+- Taught how to become language agnostic through developing a solid working process
+- Test driven design using frameworks such as RSpec, Capybara, Jasmine, Jest and Cypress
+- Built full-stack applications, including the MERN stack
+- Developed familiarity with Git/Github version control, and I am comfortable with the command line
+- Studied Emotional Intelligence curriculum to enhance my communication, collaboration and reflective skills
+- Actively participated in group stands ups and retros using tools such as Miro, Trello and EasyRetro
 
 #### University of Glasgow (09/2009 - 07/2014)
 
-- Bachelors of Engineering  
+*Bachelors of Electronics and Electrical Engineering*		
 
-#### Other Qualifications/Achievements
+**Final Project:** 
+- Automation of Optical Test Equipment using LabVIEW
+- Developed using Laboratory Virtual Instrument Engineering Workbench (LabVIEW) 
+- Project used by PHD students to aid their research 
+
+**Audio Programming:** 
+- Introduced to Object Orientated design using Python 
+- Individual task driven learning 
+
+**Acoustics and Audio Technology:**
+- This course introduces the operation and design of loudspeakers, the nature of acoustics in various environments such as musical instruments and the influence of room surroundings.
+  
+ #### Other Qualifications/Achievements
 
 - **University of Glasgow:** Half Blue in Snowsports <br>
 - **Duke of Edinburgh:** Gold
+  
+ </details>
 
 ## Hobbies and interests 
+
+<details>
+  <summary>Hobbies and Interests</summary>
+
+
 
 **Outdoor Activities:**
 In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
@@ -131,3 +190,4 @@ What interests me in particular is the way team dynamics can boost performance a
 
 **Cooking/Baking:**
 Very inspired by asian flavours and dishes. Also enjoy making simple tasty baked goods. 
+ </details>
