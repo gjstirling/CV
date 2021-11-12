@@ -36,10 +36,8 @@ Makers have really helped me to understand how to become an effective learner. A
 
 ### Muckhart Golf Club, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; <br>
 **Role:** Shop Assistant  
-<div class = "date" >
-March 2021 to July 2021 
-<div/>
 
+<p class="date">March 2021 to July 2021</p>
 
   - Management of Tee times, incoming calls and stock
   - Interacted with members to ensure club provided the best possible service
