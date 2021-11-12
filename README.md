@@ -146,13 +146,11 @@ Leading clients in dangerious and risky enviroments
 <br/>
 
 ## Hobbies and interests 
-  <br>
-  
-**Outdoor Activities:**
-- In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
+**Outdoor Activities:**<br>
+In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
 
-**Formula One:**
-- What interests me in particular is the way team dynamics can boost performance and the mental resilience drivers need to overcome great external pressure. I also love listening to insights on technical innovations introduced by teams to give them a competitive edge and how strategy can determine the outcome of a race.
+**Formula One:**<br>
+What interests me in particular is the way team dynamics can boost performance and the mental resilience drivers need to overcome great external pressure. I also love listening to insights on technical innovations introduced by teams to give them a competitive edge and how strategy can determine the outcome of a race.
 
-**Cooking/Baking:**
-- Very inspired by asian flavours and dishes. Also enjoy making simple tasty baked goods. 
+**Cooking/Baking:**<br>
+Very inspired by asian flavours and dishes. Also enjoy making simple tasty baked goods. 
