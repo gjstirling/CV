@@ -1,6 +1,6 @@
-# Graeme Stirling
+# Graeme Stirling &nbsp;&nbsp;&nbsp; 
 
-[PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
+[PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) | [HOBBIES/INTERESTS]()
 
 <img alt="JS" src="js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RUBY" src="Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
@@ -30,39 +30,32 @@ Makers have really helped me to understand how to become an effective learner. A
 
 <br/>
 
-## Relevent Work Experiance 
+## Relevent Work Experiance and Skills
 
-<br/>
-
-### Muckhart Golf Club, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; <br>
-**Role:** Shop Assistant  
-
-<p class="date">March 2021 to July 2021</p>
-
-  - Management of Tee times, incoming calls and stock
+### Muckhart Golf Club, Scotland 
+**Role:** Shop Assistant <br>
+*March 2021 to July 2021*
+  - Management of Tee times, incoming calls and stock  
   - Interacted with members to ensure club provided the best possible service
 
-<br/>
-
-### Whistler Blackcomb, Canada &nbsp;  &nbsp; &nbsp;  &nbsp; <br> 
-**Role:** Freestyle Development Program Coach and Staff Trainer &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; November 2016 to March 2021
-
+### Whistler Blackcomb, Canada <br>
+**Role:** Freestyle Development Program Coach and Staff Trainer  
+*November 2016 to March 2021*
   - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
   - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
-
-**Whistler Sports Rentals, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (04/2017 to 10/2018) Full-time Seasonal
-
-- **Role:** Rental Assistant 
-
+ 
+### Whistler Sports Rentals, Canada <br>
+**Role:** Rental Assistant <br>
+*April 2017 to October 2018*
   - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
   - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
 
-**Niseko Base Snowsports, Japan** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2015 to 03/2016) Full-time Seasonal
+### Niseko Base Snowsports, Japan <br>
+**Role:** Snowsports Instructor   
+*December 2015 to March 2016*
+ - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
+ - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
 
-- **Role:** Snowsports Instructor
-
-  - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
-  - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
 
 <details>
   <summary>Full Employment History: Click to expand</summary>
@@ -71,72 +64,21 @@ Makers have really helped me to understand how to become an effective learner. A
   
 ## Full Employment History 2011 - Present
   
-**Muckhart Golf Club** &nbsp;  &nbsp; &nbsp;  &nbsp; (03/2021 to 07/2021) Full-time 
+| Employer, Country | Role |Dates|
+| ----------------- | ---- | --- |
+|**Muckhart Golf Club**, Scotland|Shop Assistant|March 2021 to July 2021| 
+|**The Bottle Shop** , Scotland|Shop Assistant|April 2020 to March 2021 | 
+|**Whistler Blackcomb**, Canada|Freestyle Development Program Coach and Staff Trainer|November 2016 to April 2021 |  
+|**Thredbo Resort**, Australia|Moguls Coach/Instructor|June 2019 to September 2019|
+|**Whistler Sports Rentals**, Canada|Rental Assistant|April 2017 to October 2018   | 
+|**Muircot Farmshop**, Scotland|Service Staff|July 2016 to November 2016| 
+|**Niseko Base Snowsports**, Japan|Snowsports Instructor|November 2015 to March 2016|
+|**Gnomes Alpine Sports**, New Zealand|Ski Boot Fitter|June 2015 to October 2016|
+|**Ellis Brigham**, Scotland|Ski Boot Fitter|September 2014 to March 2015 |
+|**Snow Factor**, Scotland|Snowsports Instructor|January 2011 to May 2015|
+|**Snow Factor**, Scotland|Snowsports Instructor (Full-time during Sabbatical)|September 2012 to September 2013|
   
-- Role: Shop Assistant
-  - Management of Tee times, incoming calls and stock
-  - Interacted with members to ensure club provided the best possible service
-  
-<br/>
 
-**The Bottle Shop** &nbsp;  &nbsp; &nbsp;  &nbsp; (04/2020 to 03/2021) Full-time  
-  
-- Role: Shop Assistant/Delivery Driver
-  - Delivered shop/website orders
-  - Opening/closing duties 
-
-<br/>
-  
-**Whistler Blackcomb, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2016 to 04/2021) Full-time Seasonal
-  
-- Role: Freestyle Development Program Coach and Staff Trainer
-  - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
-  - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
-
-<br/>
-  
-**Thredbo Resort, Australia** &nbsp;  &nbsp; &nbsp;  &nbsp; (06/2019 to 10/2019) Full-time Seasonal  
-  
-- Role: Moguls Coach/Instructor
-  - Contributing team member to a successful season long schools program
-  
- <br/>
-  
-**Whistler Sports Rentals, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (04/2017 to 10/2018) Full-time Seasonal 
-  
-- Role: Rental Assistant 
-  - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
-  - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
-
- <br/>
-  
-**Muircot Farmshop, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; (07/2016 to 11/2016) Full-time   
-  
-- Role: Service Staff
-
- <br/>   
-  
-**Niseko Base Snowsports, Japan** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2015 to 03/2016) Full-time Seasonal    
-- Role: Snowsports Instructor
-  - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
-  - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
-  
- <br/>  
-  
-**Gnomes Alpine Sports, New Zealand** &nbsp;  &nbsp; &nbsp;  &nbsp;(06/2015 to 10/2016) Full-time Seasonal  
-- Role: Ski Boot Fitter 
-  
- <br/>  
-  
-**Ellis Brigham, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; (09/2014 to 03/2015) Full-time Seasonal  
-- Role: Ski Boot Fitter
-
-<br/>
-  
-**Snow Factor, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; (01/2011 to 05/2015) Part-time   
-(Sabatical year from University) &nbsp;  &nbsp; &nbsp;  &nbsp; (09/2012 to 09/2013) Full-time
-- Role: Snowsports Instructor 
-  
 </details>
 
 <br/>
@@ -204,9 +146,6 @@ Leading clients in dangerious and risky enviroments
 <br/>
 
 ## Hobbies and interests 
-
-<details>
-  <summary>Click to expand</summary>
   <br>
   
 **Outdoor Activities:**
@@ -217,4 +156,3 @@ Leading clients in dangerious and risky enviroments
 
 **Cooking/Baking:**
 - Very inspired by asian flavours and dishes. Also enjoy making simple tasty baked goods. 
- </details>
