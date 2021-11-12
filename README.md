@@ -32,30 +32,36 @@ Makers have really helped me to understand how to become an effective learner. A
 
 ## Relevent Work Experiance 
 
-**Muckhart Golf Club** &nbsp;  &nbsp; &nbsp;  &nbsp; (03/2021 to 07/2021) Full-time 
+<br/>
 
-- Role: Shop Assistant
+### Muckhart Golf Club, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; <br>
+**Role:** Shop Assistant  
+<div class = "date" >
+March 2021 to July 2021 
+<div/>
+
 
   - Management of Tee times, incoming calls and stock
   - Interacted with members to ensure club provided the best possible service
 
-**Whistler Blackcomb, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2016 to 04/2021) Full-time Seasonal    
+<br/>
 
-- Role: Freestyle Development Program Coach and Staff Trainer
+### Whistler Blackcomb, Canada &nbsp;  &nbsp; &nbsp;  &nbsp; <br> 
+**Role:** Freestyle Development Program Coach and Staff Trainer &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; November 2016 to March 2021
 
   - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
   - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
 
 **Whistler Sports Rentals, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (04/2017 to 10/2018) Full-time Seasonal
 
-- Role: Rental Assistant 
+- **Role:** Rental Assistant 
 
   - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
   - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
 
 **Niseko Base Snowsports, Japan** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2015 to 03/2016) Full-time Seasonal
 
-- Role: Snowsports Instructor
+- **Role:** Snowsports Instructor
 
   - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
   - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
