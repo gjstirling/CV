@@ -3,6 +3,14 @@
 [Projects](https://github.com/gjstirling/CV#Projects) | [Experiance](https://github.com/gjstirling/CV#Relevent-Work-Experiance) | [Education](https://github.com/gjstirling/CV#Education) | [Hobbies and Interests](https://github.com/gjstirling/CV#Hobbiesandinterests)
 <br>
 
+## Summary 
+
+Recently I have moved into a career change completing a remote 16 week intensive bootcamp with Makers Academy. After spending the last five years living abroad working in the snow-sports industry I needed a new challenge and wanted a new career that allow me to grow professionally. This experience allowed me to understand how to become an effective learner. Accepting challenging tasks, using them as an opportunities to grow and improve. I am a strong believer in having a good working process by following best practices such as test driven development, isolation/single responsibility principle and working incrementally. Allowing my work to be clear, concise and fluid.   
+
+Working as a coach helped me develop a strong competency in communication, leadership, managing difficult situations and working effectively with my peers. These skills were incredibly useful when working on group projects or in pairing tasks. Allowing me to ensure teams were always moving forward and enjoying the learning process. I received frequent commendation for this from my peers describing the working environment as calm, positive and productive.  
+
+As a person I am very reflective, value good social skills/honesty and have a high emotional awareness.
+
 <img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
