@@ -56,11 +56,10 @@ Makers have really helped me to understand how to become an effective learner. A
  - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
  - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
 
+<br/> 
 
 <details>
   <summary>Full Employment History: Click to expand</summary>
- 
- <br/>
   
 ## Full Employment History 2011 - Present
   
