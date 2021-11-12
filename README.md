@@ -2,13 +2,13 @@
 
 [PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) | [HOBBIES/INTERESTS]()
 
-<img alt="JS" src="js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RUBY" src="Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="HTML" src="HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
-<img alt="REACT" src="React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
-<img alt="PSQL" src="Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RAILS" src="Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
+<img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
+<img alt="REACT" src="images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
+<img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RAILS" src="images/Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
 
 ## Summary
 
