@@ -1,17 +1,9 @@
-# Graeme Stirling <br>
-<a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn"><img src="images/LinkedIn.svg.png" width="50" height="50"></a>
-<a href="https://medium.com/@graemejstirling" title="Medium"><img src="" width="50" height="50"></a>
+# Graeme Stirling 
+## <a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn">Linked In</a> <img alt=":LinkedIN" src="" width="80"> | 
+## <a href="https://medium.com/@graemejstirling" title="Medium">Medium</a> <img alt=":Medium" src="" width="80">
 
 [PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) | [HOBBIES/INTERESTS]()
 <br>
-
-<img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
-<img alt="REACT" src="images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
-<img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RAILS" src="images/Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
 
 ## Summary
 
@@ -20,6 +12,14 @@ Recently I graduated from a remote 16 week intensive bootcamp with Makers Academ
 While working as a coach I developed a strong competency in communication, leadership, managing difficult situations and working effectively with peers. These skills were incredibly useful when working on group projects or in pairing tasks. Allowing me to ensure teams were always moving forward and enjoying the learning process. I received frequent commendation for this from my peers describing the working environment as calm, positive and productive.  
 
 Makers have really helped me to understand how to become an effective learner. Accepting when something is challenging, using it as a motivator to grow and become better. The course taught me that I have capability to pick up any language/stack and build applications that could improve the lives of others. This greatly excites and motivates me as I search for my first role.  
+
+<img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
+<img alt="REACT" src="images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
+<img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RAILS" src="images/Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
 
 <br/>
 
