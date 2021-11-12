@@ -2,7 +2,13 @@
 
 [PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
 
-<br/>
+<img alt="JS" src="js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="HTML" src="HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="CSS" src="CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
+<img alt="REACT" src="React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
+<img alt="PSQL" src="Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
+<img alt="RAILS" src="Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
 
 ## Summary
 
@@ -13,20 +19,6 @@ While working as a coach I developed a strong competency in communication, leade
 Makers have really helped me to understand how to become an effective learner. Accepting when something is challenging, using it as a motivator to grow and become better. The course taught me that I have capability to pick up any language/stack and build applications that could improve the lives of others. This greatly excites and motivates me as I search for my first role.  
 
 <br/>
-<br/>
-
-
-<img alt="JS" src="js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RUBY" src="Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="HTML" src="HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="CSS3.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-
-
-
-
-
-
-
 
 ## Projects
 
@@ -36,6 +28,7 @@ Makers have really helped me to understand how to become an effective learner. A
 | [Acebook](https://github.com/Nicola-Carroll/acebook.git)    | A team project creating a clone of facebook using Ruby on Rails | Ruby on Rails, HTML, CSS  |
 | [Chitter](https://github.com/gjstirling/chitter-challenge.git) | A twitter style clone full stack application. |  Ruby, HTML, CSS, SQL  |
 
+<br/>
 
 ## Relevent Work Experiance 
 
@@ -68,13 +61,19 @@ Makers have really helped me to understand how to become an effective learner. A
   - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
 
 <details>
-  <summary>Click to expand: Full Work History</summary>
+  <summary>Full Employment History: Click to expand</summary>
+ 
+ <br/>
+  
+## Full Employment History 2011 - Present
   
 **Muckhart Golf Club** &nbsp;  &nbsp; &nbsp;  &nbsp; (03/2021 to 07/2021) Full-time 
   
 - Role: Shop Assistant
   - Management of Tee times, incoming calls and stock
   - Interacted with members to ensure club provided the best possible service
+  
+<br/>
 
 **The Bottle Shop** &nbsp;  &nbsp; &nbsp;  &nbsp; (04/2020 to 03/2021) Full-time  
   
@@ -82,16 +81,22 @@ Makers have really helped me to understand how to become an effective learner. A
   - Delivered shop/website orders
   - Opening/closing duties 
 
+<br/>
+  
 **Whistler Blackcomb, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2016 to 04/2021) Full-time Seasonal
   
 - Role: Freestyle Development Program Coach and Staff Trainer
   - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
   - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
+
+<br/>
   
 **Thredbo Resort, Australia** &nbsp;  &nbsp; &nbsp;  &nbsp; (06/2019 to 10/2019) Full-time Seasonal  
   
 - Role: Moguls Coach/Instructor
   - Contributing team member to a successful season long schools program
+  
+ <br/>
   
 **Whistler Sports Rentals, Canada** &nbsp;  &nbsp; &nbsp;  &nbsp; (04/2017 to 10/2018) Full-time Seasonal 
   
@@ -99,26 +104,38 @@ Makers have really helped me to understand how to become an effective learner. A
   - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
   - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
 
+ <br/>
+  
 **Muircot Farmshop, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; (07/2016 to 11/2016) Full-time   
   
 - Role: Service Staff
 
+ <br/>   
+  
 **Niseko Base Snowsports, Japan** &nbsp;  &nbsp; &nbsp;  &nbsp; (11/2015 to 03/2016) Full-time Seasonal    
 - Role: Snowsports Instructor
   - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
   - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
   
+ <br/>  
+  
 **Gnomes Alpine Sports, New Zealand** &nbsp;  &nbsp; &nbsp;  &nbsp;(06/2015 to 10/2016) Full-time Seasonal  
 - Role: Ski Boot Fitter 
   
+ <br/>  
+  
 **Ellis Brigham, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; (09/2014 to 03/2015) Full-time Seasonal  
 - Role: Ski Boot Fitter
+
+<br/>
   
 **Snow Factor, Scotland** &nbsp;  &nbsp; &nbsp;  &nbsp; (01/2011 to 05/2015) Part-time   
 (Sabatical year from University) &nbsp;  &nbsp; &nbsp;  &nbsp; (09/2012 to 09/2013) Full-time
 - Role: Snowsports Instructor 
   
 </details>
+
+<br/>
 
 ## Skills
 
@@ -140,6 +157,8 @@ Leading clients in dangerious and risky enviroments
   Working with challenging pair tasks/team projects 
 
 </details>
+
+<br/>
 
 ## Education
 
@@ -177,7 +196,9 @@ Leading clients in dangerious and risky enviroments
 - **Half-Blue:** awarded by the University of Glasgow for achievements in Snowsports competitions and club dedication.
 - **Glasgow University Sports Association:** Snowsports Club Captain 2013 
 - **Duke of Edinburgh:** Gold
-  
+
+<br/>
+
 ## Hobbies and interests 
 
 <details>
