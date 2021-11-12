@@ -1,5 +1,7 @@
 # Graeme Stirling
 
+[KEY PROJECTS]() | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
+
 ## Summary
 
 Recently I graduated from a remote 16 week intensive bootcamp with Makers Academy. After spending the last five years living abroad working in the snow-sports industry I needed a new challenge and desired a new career that allow me to grow. As a person I am very reflective, value good social skills/honesty and have a high emotional awareness.
@@ -8,15 +10,12 @@ While working as a coach I developed a strong competency in communication, leade
 
 Makers have really helped me to understand how to become an effective learner. Accepting when something is challenging, using it as a motivator to grow and become better. The course taught me that I have capability to pick up any language/stack and build applications that could improve the lives of others. This greatly excites and motivates me as I search for my first role.  
 
+## Key Projects
 
-| Team Projects         | About     | Core Technologies         |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------- |
+| Title               | About |Tools/Tech       |
+| ------------------- | ----- | --------------- |
 | [Code4Kids](https://github.com/moby-codes/makers-final-project.git)| A webapp to introduce software fundamentals to children. | MERN, Jest, HTML, Javascript |
 | [Acebook](https://github.com/Nicola-Carroll/acebook.git)    | A team project creating a clone of facebook using Ruby on Rails | Ruby on Rails, HTML, CSS  |
-
-
-| Individual Projects | About | Core Technologies |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------- |
 | [Chitter](https://github.com/gjstirling/chitter-challenge.git) | A twitter style clone full stack application. |  Ruby, HTML, CSS, SQL  |
 
 
