@@ -16,8 +16,8 @@ Makers have really helped me to understand how to become an effective learner. A
 <br/>
 
 
-<img alt="JS" src="" width="48">&nbsp;&nbsp;&nbsp;
-<img alt="RUBY" src="" width="48">&nbsp;&nbsp;&nbsp;
+<img alt="JS" src="js_logo.svg" width="48">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="Ruby_logo.svg" width="48">&nbsp;&nbsp;&nbsp;
 
 
 
