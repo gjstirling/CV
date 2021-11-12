@@ -36,26 +36,26 @@ Makers have really helped me to understand how to become an effective learner. A
 ### Muckhart Golf Club, Scotland 
 **Role:** Shop Assistant <br>
 *March 2021 to July 2021*
-  - Management of Tee times, incoming calls and stock  
-  - Interacted with members to ensure club provided the best possible service
+  - **Time Management:** Organising Tee times for casual play and comptitions. Managing incoming calls and regualar stock intake.  
+  - **Emotional Awareness:** Interacted with members to ensure club provided the best possible service
 
 ### Whistler Blackcomb, Canada <br>
 **Role:** Freestyle Development Program Coach and Staff Trainer  
 *November 2016 to March 2021*
-  - Lead training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
-  - Worked in a team which delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals and being adaptable to variable weather conditions.
+  - **Leadership:** Trained staff on etiquette, safety and best practices. This ensured guests received a safe and enjoyable experience. 
+  - **Teamwork:** Delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART         goals                  and being adaptable to variable weather conditions.
  
 ### Whistler Sports Rentals, Canada <br>
 **Role:** Rental Assistant <br>
 *April 2017 to October 2018*
-  - Worked effectively in a high pace work environment, keeping on top of bookings etc. 
-  - Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
+  - **Focused:** Worked effectively in a high pace work environment, keeping on top of bookings etc. 
+  - **Interpersonal Skills:** Guided customers on routes suiting their experience level and provided clear information on how to use their equipment
 
 ### Niseko Base Snowsports, Japan <br>
 **Role:** Snowsports Instructor   
 *December 2015 to March 2016*
- - Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher             certifications and promotion over the season. 
- - Used my skills in communication effectively to teach groups of varying abilities to facilitate a fun learning experience.
+ - **Dedication:** Received recognition for dedication to develop professionally by regularly attending optional staff training sessions. This lead to achieving higher certifications and promotion over the season. 
+ - **Communication:** Effectively taught groups of varying abilities and ages to facilitate a fun learning experience.
 
 <br/> 
 
