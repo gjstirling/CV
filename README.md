@@ -1,6 +1,5 @@
 # Graeme Stirling 
-## <a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn">Linked In</a> <img alt=":LinkedIN" src="" width="80"> | 
-## <a href="https://medium.com/@graemejstirling" title="Medium">Medium</a> <img alt=":Medium" src="" width="80">
+## <a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn">Linked</a> <img alt=":LinkedIN" src="images/LinkedIn.svg.png" width="20"> | <a href="https://medium.com/@graemejstirling" title="Medium">Medium</a> <img alt=":Medium" src="images/medium.png" width="20">
 
 [PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) | [HOBBIES/INTERESTS]()
 <br>
