@@ -83,29 +83,6 @@ Makers have really helped me to understand how to become an effective learner. A
 
 <br/>
 
-## Skills
-
-<details>
-  <summary>Click to expand</summary>
-
-#### Communication 
-
-Working in teams/pairs on programming challenges with Makers Academy. Using agile processes to break work down into incremental tickets and keeping communication transparent in remote working enviroment.
-  
-#### Leadership 
-
-Leading clients in dangerious and risky enviroments
-
-#### Problem Solving  
-
-  Keen eye for details 
-  Reflective in nature, always trying improve my working process
-  Working with challenging pair tasks/team projects 
-
-</details>
-
-<br/>
-
 ## Education
 
 ### Makers Academy, London &nbsp;  &nbsp; &nbsp;  &nbsp; (28/06/2021 - 15/10/2021) 					
