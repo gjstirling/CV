@@ -1,6 +1,8 @@
 # Graeme Stirling
 
-[PROJECTS]() | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
+[PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
+
+<br/>
 
 ## Summary
 
@@ -9,6 +11,20 @@ Recently I graduated from a remote 16 week intensive bootcamp with Makers Academ
 While working as a coach I developed a strong competency in communication, leadership, managing difficult situations and working effectively with peers. These skills were incredibly useful when working on group projects or in pairing tasks. Allowing me to ensure teams were always moving forward and enjoying the learning process. I received frequent commendation for this from my peers describing the working environment as calm, positive and productive.  
 
 Makers have really helped me to understand how to become an effective learner. Accepting when something is challenging, using it as a motivator to grow and become better. The course taught me that I have capability to pick up any language/stack and build applications that could improve the lives of others. This greatly excites and motivates me as I search for my first role.  
+
+<br/>
+<br/>
+
+
+<img alt="JS" src="" width="48">&nbsp;&nbsp;&nbsp;
+<img alt="RUBY" src="" width="48">&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
 
 ## Projects
 
