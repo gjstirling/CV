@@ -1,23 +1,5 @@
 # Graeme Stirling
 
-<html>
-<head>
-<style>
-h1 {
-  text-align: center;
-}
-
-p.date {
-  text-align: right;
-}
-
-p.main {
-  text-align: justify;
-}
-</style>
-</head>
-<body>
-
 [PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
 
 <img alt="JS" src="js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
@@ -236,6 +218,3 @@ Leading clients in dangerious and risky enviroments
 **Cooking/Baking:**
 - Very inspired by asian flavours and dishes. Also enjoy making simple tasty baked goods. 
  </details>
-  
- </body>
-</html>
