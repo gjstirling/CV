@@ -1,6 +1,6 @@
 # Graeme Stirling
 
-[KEY PROJECTS]() | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
+[PROJECTS]() | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) |
 
 ## Summary
 
@@ -10,7 +10,7 @@ While working as a coach I developed a strong competency in communication, leade
 
 Makers have really helped me to understand how to become an effective learner. Accepting when something is challenging, using it as a motivator to grow and become better. The course taught me that I have capability to pick up any language/stack and build applications that could improve the lives of others. This greatly excites and motivates me as I search for my first role.  
 
-## Key Projects
+## Projects
 
 | Title               | About |Tools/Tech       |
 | ------------------- | ----- | --------------- |
