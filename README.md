@@ -1,4 +1,4 @@
-# Graeme Stirling <a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn"><img src="" width="50" height="50"></a>
+# Graeme Stirling <a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn"><img src="images/LinkedIn.svg.png" width="50" height="50"></a>
 
 [PROJECTS](https://github.com/gjstirling/CV#relevent-work-experiance) | [RELEVENT WORK EXPERIANCE](https://github.com/gjstirling/CV#relevent-work-experiance) | [SKILLS](https://github.com/gjstirling/CV#relevent-work-experiance) | [EDUCATION](https://github.com/gjstirling/CV#relevent-work-experiance) | [HOBBIES/INTERESTS]()
 
