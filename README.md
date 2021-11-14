@@ -45,18 +45,16 @@ As a person I am very reflective, value good social skills/honesty and have a hi
   - **Leadership:** Trained staff on etiquette, safety and best practices. Ensuring guests received a safe and enjoyable experience. 
   - **Teamwork:** Delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART goals and being adaptable to variable weather conditions.
  
+### Thredbo Resort, Australia <br>
+**Role:** Private moguls coach/Snowsports Instructor   
+*June 2019 to September 2019*
+ - **Communication:** Effectively taught groups of varying abilities and ages to facilitate a fun and productive learning experience.
+
 ### Whistler Sports Rentals, Canada <br>
 **Role:** Rental Assistant <br>
 *April 2017 to October 2018*
   - **Focused:** Worked effectively in a high pace work environment, keeping on top of bookings, returns and servicing. 
   - **Interpersonal Skills:** Advised customers on cycling routes suitable for their level of experience and provided clear information on how to use their            equipment.
-
-### Niseko Base Snowsports, Japan <br>
-**Role:** Snowsports Instructor   
-*December 2015 to March 2016*
- - **Dedication:** Reconsided for dedication to develop professionally by regularly attending optional staff training sessions. Leading to achieving higher certifications and promotion during the season. 
- - **Communication:** Effectively taught groups of varying abilities and ages to facilitate a fun and productive learning experience.
-
 <br/> 
 
 <details>
