@@ -79,6 +79,16 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 
 </details>
 
+## Skills 
+
+### Communication 
+ 
+### Leadership
+
+### Reflective 
+
+### Coaching
+
 <br/>
 
 ## Education
