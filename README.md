@@ -83,21 +83,49 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 
 ### Leadership
 
+<details>
+  <summary>Click to expand</summary>
 Whilst working as a staff trainer for Whistler Blackcomb, I led training to introduce new skills to staff and highlighting safe working practices. These sessions allowed me to assert staff understood the concepts and could teach them to clients unsupervised. 
 
 As instructors are responsible for their students during lessons I was tasked with assessing both understanding and their ability to deliver the material in a low risk way.  
 
 I introduced the basic fundamental concepts we would be learning along with the associated risks they pose to clients. 
 
-I would lead the group through a number of example scenarios, showing effective progressions to help them judge if their student had the necessary fundamentals skills needed to progress to more complex exercises. 
-
-I taught how to use the progressions in a safe manner and in a clear/concise way. Ensuring understanding by asking questions and listening to queries on the material. 
+I would lead the group through a number of example scenarios, showing effective progressions to help them judge if their student had the necessary fundamentals skills needed to progress to more complex exercises. Expalined how to use the progressions in a safe manner and in a clear/concise way. Checking understanding by asking questions and listening to queries during the session. 
 
 These actions combined ensured no client was put into a situation in which they were likely to become injured. By either being overly challenged by the task or through bad risk assessment by their instructor.
 
-The session was under time constraints and this sometimes led students to needing extra time to prove their understanding of the core concepts. I managed this difficult situation with confidence in my understanding of the material and also my empathy to students when they failed to meet their expectations. Most often this would be to lack of practice so with encouragement these students would return after further training and pass on reassessment. 
+The session was under time constraints and this sometimes led students to needing extra time to prove their understanding of the core concepts. I managed this difficult situation with confidence in my understanding of the material and also my empathy to students when they failed to meet their expectations. Most often this would be to lack of practice so with encouragement these students would return after further training and pass on reassessment.
 
+</details>
 
+### Communication
+<details>
+  <summary>Click to expand</summary>
+
+During my time at Makers I built on my communication skills developed throughout years of teaching and coaching snowsports. Communication was a skill I felt was one of my strongest and helped me succeed throughout the course. 
+
+In pairs we were delegated into pairs or groups to work on weekly afternoon challenges. First I would create an agreement on how we would work together, plan any breaks and ensure both sides contribute by consistently rotating from driver to navigator.
+
+To aid understanding on our progress I would always reflect on what we had learned. By way of discussion I was able to highlight sections of the task I didn’t understand and also explain the sections I understood if my partner was struggling to get clarity. This allowed myself and my partner to learn more from the task by voicing a loud the material and discussing it. By being open and honest I created a very calming and enjoyable learning experience. 
+
+From this I received regular positive feedback after pairing sessions. Often referring to my demeanour as calm, relaxed and productive. My ability to break down complicated tasks into incremental blocks and be as concise as possible inspired my peers into becoming stronger believers of growth mindset. 
+  
+</details>
+
+### Emotional Intelligence
+<details>
+<summary>Click to expand</summary>
+
+While learning at Makers we were provided with an emotional intelligence curriculum. This helped me greatly improve how I managed my emotions/stress and also my ability to perceive the feelings of others. 
+
+During the final team project I had a difficult first week due to a team member being challenging to work with. 
+
+Understanding that this issue was not clear I arranged to having a meeting to discuss my difficulties. This allowed me to be open and frank about the cause of the issue and also allow me to listen to my team members to understand their views on the problem. I made sure to give the feedback constructively and explain clearly how I felt about the difficulty I was having communicating with them. This was due to a difficultly in being able to give honest feedback and collaborate together with an open mind. I wanted to allow them to give their feeling on the matter so I then allowed them to put forward their viewpoint.   
+
+Ultimately this led to the group member choosing to leave the project due to being unwilling to work on a solution. I was praised by my group for my bravery in dealing with a difficult situation in a calm and honest way. Dealing with this difficult dynamic allowed the group to move forward and finish the project on time. 
+
+</details>
 <br/>
 
 ## Education
