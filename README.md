@@ -1,6 +1,6 @@
 # Graeme Stirling &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/graemejstirling/" title="LinkedIn">Linked</a> <img alt=":LinkedIN" src="images/LinkedIn.svg.png" width="20"> | <a href="https://medium.com/@graemejstirling" title="Medium">Medium</a> <img alt=":Medium" src="images/medium.png" width="20">
 
-[Projects](https://github.com/gjstirling/CV#Projects) | [Experiance](https://github.com/gjstirling/CV#Relevent-Work-Experiance) | [Education](https://github.com/gjstirling/CV#Education) | [Hobbies and Interests](https://github.com/gjstirling/CV#Hobbiesandinterests)
+[Projects](https://github.com/gjstirling/CV#Projects) | [Experiance](https://github.com/gjstirling/CV#Relevent-Work-Experiance) | [Education](https://github.com/gjstirling/CV#Education) | [Hobbies and Interests](https://github.com/gjstirling/CV#Hobbies-and-interests)
 <br>
 
 ## Summary 
@@ -109,9 +109,9 @@ While learning at Makers we were provided with an emotional intelligence curricu
 
 During the final team project I had a difficult first week due to a team member being challenging to work with. 
 
-Understanding that this issue was not clear I arranged to having a meeting to discuss my difficulties. This allowed me to be open and frank about the cause of the issue and also allow me to listen to my team members to understand their views on the problem. I made sure to give the feedback constructively and explain clearly how I felt about the difficulty I was having communicating with them. This was due to a difficultly in being able to give honest feedback and collaborate together with an open mind. I wanted to allow them to give their feeling on the matter so I then allowed them to put forward their viewpoint.   
+Understanding that this issue was not clear I arranged to having a meeting to discuss these difficulties. I made sure to give the feedback constructively and explain clearly how I felt about the difficulty I was having communicating with them. Primarily due to feeling my feedback was not being accepted and collaboration was very one sided. I wanted to understand their feelings on the matter so I then allowed them to put forward their viewpoint.   
 
-Ultimately this led to the group member choosing to leave the project due to being unwilling to work on a solution. I was praised by my group for my bravery in dealing with a difficult situation in a calm and honest way. Dealing with this difficult dynamic allowed the group to move forward and finish the project on time. 
+This led to the group member choosing to leave the project due to being unwilling to work on a solution. I was praised by my group for my bravery in dealing with a difficult situation in a calm and honest way. Dealing with this difficult dynamic allowed the group to move forward and finish the project on time. I learned that it is best to be open and transparent at all times during collaborative work. Ultimately this allows teamwork to be much more productive and positive.
 <br/>
 
 ## Education
