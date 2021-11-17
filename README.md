@@ -82,18 +82,12 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 ## Skills 
 
 ### Leadership
+
 Whilst working as a staff trainer for Whistler Blackcomb, I led training to introduce new skills to staff and highlighting safe working practices. These sessions allowed me to assert staff understood the concepts and could teach them to clients unsupervised. 
 
-As instructors are responsible for their students during lessons I was tasked with assessing both understanding and their ability to deliver the material in a low risk way.  
+By delivering the content confidently and clearly I was able to help others learn new skills. I was also conscious to digest differing concerns and provide knowledgeable alternatives. Coaching staff allowed me to understand how to collaborate better with others. 
 
-I introduced the basic fundamental concepts we would be learning along with the associated risks they pose to clients. 
-
-I would lead the group through a number of example scenarios, showing effective progressions to help them judge if their student had the necessary fundamentals skills needed to progress to more complex exercises. Expalined how to use the progressions in a safe manner and in a clear/concise way. Checking understanding by asking questions and listening to queries during the session. 
-
-These actions combined ensured no client was put into a situation in which they were likely to become injured. By either being overly challenged by the task or through bad risk assessment by their instructor.
-
-The session was under time constraints and this sometimes led students to needing extra time to prove their understanding of the core concepts. I managed this difficult situation with confidence in my understanding of the material and also my empathy to students when they failed to meet their expectations. Most often this would be to lack of practice so with encouragement these students would return after further training and pass on reassessment.
-
+These actions led to staff being inspired by my confidence and understanding. I received positive feedback on how the material was educational and concise. Due to being under time constraints this sometimes led students to needing extra time to improve their understanding. I managed this difficult situation by showing my empathy to students when they didn’t to meet their expectations. With encouragement these students would return after further training and pass on reassessment.
 
 ### Communication
 During my time at Makers I built on my communication skills developed throughout years of teaching and coaching snowsports. Communication was a skill I felt was one of my strongest and helped me succeed throughout the course. 
