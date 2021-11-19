@@ -83,7 +83,7 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 
 ### Leadership
 
-Whilst working as a staff trainer for Whistler Blackcomb, I led training to introduce new skills to staff and highlighting safe working practices. These sessions allowed me to assert staff understood the concepts and could teach them to clients unsupervised. 
+Whilst working as a staff trainer for Whistler Blackcomb, I led training to introduce new skills to staff and highlighting safe working practices. These sessions allowed me to ensure staff understood the concepts and could teach them to clients unsupervised. 
 
 By delivering the content confidently and clearly I was able to help others learn new skills. I was also conscious to digest differing concerns and provide knowledgeable alternatives. Coaching staff allowed me to understand how to collaborate better with others. 
 
