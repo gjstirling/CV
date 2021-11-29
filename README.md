@@ -25,8 +25,8 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 
 | Title               | About |Tools/Tech       |
 | ------------------- | ----- | --------------- |
-| [Code4Kids](https://github.com/moby-codes/makers-final-project.git)| A webapp to introduce software fundamentals to children. | MERN, Jest, HTML, Javascript |
 | [Acebook](https://github.com/Nicola-Carroll/acebook.git)    | A team project creating a clone of facebook using Ruby on Rails | Ruby on Rails, HTML, CSS  |
+| [Note-Orious](https://github.com/gjstirling/Note-orious-Single-Page-App)| A single page note taking app built using Vanilla Javascript | Javascript, HTML, CSS|
 | [Bank](https://github.com/gjstirling/Bank-Tech-test) | A bank account style tech test. | Ruby |
 
 <br/>
