@@ -26,8 +26,8 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 | Title               | About |Tools/Tech       |
 | ------------------- | ----- | --------------- |
 | [Acebook](https://github.com/Nicola-Carroll/acebook.git)    | A team project creating a clone of facebook using Ruby on Rails | Ruby on Rails, HTML, CSS  |
-| [Chitter](https://github.com/gjstirling/Chitter.git)| **Description:** A clone of the CRUD application Twitter <br> **Contributions and personal development:**| Ruby, RSpec, Sinatra, Capybara|
-| [Bank](https://github.com/gjstirling/Bank-Tech-test) | A bank account style tech test. | Ruby, RSpec |
+| [Chitter](https://github.com/gjstirling/Chitter.git)| A CRUD application that enables authenticated users to post ‘peeps’<br><br>Developed my understanding of client/server relationship and modelling an application in a MVC structure. Learned about RESTful routes, database relationships and improved my ability to debug full stack applications | Ruby, RSpec, Sinatra, Capybara, HTML, PostgreSQL|
+| [Bank](https://github.com/gjstirling/Bank-Tech-test) | An interview style tech test to create a bank account program using the command line. Users can create new account, withdraw, deposit and view their transaction history. <br> <br> This project strengthened my understanding of isolated testing, creating tests on behaviours and following requirements. Discovered using floats can cause rounding errors so manipulated them to integers for calculations. Stabilised tests by parsing mock dates and using a feature test that demonstrates the acceptance criteria.   | Ruby, RSpec |
 
 <br/>
 
