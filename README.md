@@ -26,8 +26,8 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 | Title               | About |Tools/Tech       |
 | ------------------- | ----- | --------------- |
 | [Acebook](https://github.com/Nicola-Carroll/acebook.git)    | A team project creating a clone of facebook using Ruby on Rails | Ruby on Rails, HTML, CSS  |
-| [Note-Orious](https://github.com/gjstirling/Note-orious-Single-Page-App)| A single page note taking app built using Vanilla Javascript | Javascript, HTML, CSS|
-| [Bank](https://github.com/gjstirling/Bank-Tech-test) | A bank account style tech test. | Ruby |
+| [Chitter](https://github.com/gjstirling/Chitter.git)| A clone of the CRUD application Twitter | Ruby, RSpec, Sinatra, Capybara|
+| [Bank](https://github.com/gjstirling/Bank-Tech-test) | A bank account style tech test. | Ruby, RSpec |
 
 <br/>
 
