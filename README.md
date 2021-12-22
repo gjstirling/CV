@@ -64,8 +64,8 @@ While travelling and before joining the Makers course I had worked many seasonal
 - **Organised/Adaptable:** Worked effectively in a high pace work environment, keeping on top of bookings, managing incoming calls, bookings and stock.
 - **Social Skills:** Interacted positively with customers to ensure the best possible customer service
 - **Emotional Intelligence:** Solving customer disputes/complaints with reasoning and understanding
+<br>
 
- 
 ## Skills 
 
 ### Leadership
@@ -131,8 +131,6 @@ This led to the group member choosing to leave the project due to being unwillin
 - **Half-Blue:** awarded by the University of Glasgow for achievements in Snowsports competitions and club dedication.
 - **Glasgow University Sports Association:** Snowsports Club Captain 2013 
 - **Duke of Edinburgh:** Gold
-
-<br/>
 
 ## Hobbies and interests 
 **Outdoor Activities:**<br>
