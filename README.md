@@ -31,54 +31,41 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 
 <br/>
 
-## Relevent Work Experiance
+## Work Experiance
 
-### Muckhart Golf Club, Scotland 
-**Role:** Shop Assistant <br>
-*March 2021 to July 2021*
-  - **Time Management:** Organising Tee times for casual play and competitions. Managing incoming calls and stock intake.  
-  - **Emotional Awareness:** Interacted with members to ensure club provided the best possible customer service. 
+## About
+While travelling and before joining the Makers course I had worked many seasonal/temporary jobs. I have summarised my experience to date and I am happy to discuss my full working history in more detail.
 
-### Whistler Blackcomb, Canada <br>
-**Role:** Freestyle Development Program Coach and Staff Trainer  
-*November 2016 to March 2021*
-  - **Leadership:** Trained staff on etiquette, safety and best practices. Ensuring guests received a safe and enjoyable experience. 
-  - **Teamwork:** Delivered a season long development program for local children, communicating regularly with parents about progress, setting SMART goals and being adaptable to variable weather conditions.
- 
-### Thredbo Resort, Australia <br>
-**Role:** Private moguls coach/Snowsports Instructor   
-*June 2019 to September 2019*
- - **Communication:** Effectively taught groups of varying abilities and ages to facilitate a fun and productive learning experience.
+### Trainer, Coach and Snowsports Instructor 
 
-### Whistler Sports Rentals, Canada <br>
-**Role:** Rental Assistant <br>
-*April 2017 to October 2018*
-  - **Focused:** Worked effectively in a high pace work environment, keeping on top of bookings, returns and servicing. 
-  - **Interpersonal Skills:** Advised customers on cycling routes suitable for their level of experience and provided clear information on how to use their            equipment.
-<br/> 
-
-<details>
-  <summary>Full Employment History: Click to expand</summary>
-  
-## Full Employment History 2011 - Present
-  
 | Employer, Country | Role |Dates|
-| ----------------- | ---- | --- |
-|**Muckhart Golf Club**, Scotland|Shop Assistant|March 2021 to July 2021| 
-|**The Bottle Shop** , Scotland|Shop Assistant|April 2020 to March 2021 | 
-|**Whistler Blackcomb**, Canada|Freestyle Development Program Coach and Staff Trainer|November 2016 to April 2021 |  
+| ----------------- | ---- | --- | 
+|**Whistler Blackcomb**, Canada| Coach and Staff Trainer|November 2016 to April 2021 |  
 |**Thredbo Resort**, Australia|Moguls Coach/Instructor|June 2019 to September 2019|
 |**Whistler Sports Rentals**, Canada|Rental Assistant|April 2017 to October 2018   | 
-|**Muircot Farmshop**, Scotland|Service Staff|July 2016 to November 2016| 
 |**Niseko Base Snowsports**, Japan|Snowsports Instructor|November 2015 to March 2016|
+|**Snow Factor**, Scotland|Snowsports Instructor|January 2011 to May 2015|
+
+- **Leadership:** Led training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
+- **Teamwork:** Worked in teams delivering a season long development program for local children, communicating regularly with parents about progress, setting SMART goals and being adaptable to variable weather conditions. 
+- **Communication:** Setting manageable expectations for clients, highlighting the positive steps as they showed improvement and adapting wording to ensure clear understanding.
+
+### Shop Assistant
+
+| Employer, Country | Role |Dates|
+| ----------------- | ---- | --- |
+|**Muckhart Golf Club**, Scotland|Shop Assistant &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; |March 2021 to July 2021| 
+|**The Bottle Shop** , Scotland|Shop Assistant |April 2020 to March 2021 |
+|**Whistler Sports Rentals**, Canada|Rental Assistant|April 2017 to October 2018|
+|**Muircot Farmshop**, Scotland|Service Staff|July 2016 to November 2016|
 |**Gnomes Alpine Sports**, New Zealand|Ski Boot Fitter|June 2015 to October 2016|
 |**Ellis Brigham**, Scotland|Ski Boot Fitter|September 2014 to March 2015 |
-|**Snow Factor**, Scotland|Snowsports Instructor|January 2011 to May 2015|
-|**Snow Factor**, Scotland|Snowsports Instructor (Full-time during Sabbatical)|September 2012 to September 2013|
-  
 
-</details>
+- **Organised/Adaptable:** Worked effectively in a high pace work environment, keeping on top of bookings, managing incoming calls, bookings and stock.
+- **Social Skills:** Interacted positively with customers to ensure the best possible customer service
+- **Emotional Intelligence:** Solving customer disputes/complaints with reasoning and understanding
 
+ 
 ## Skills 
 
 ### Leadership
