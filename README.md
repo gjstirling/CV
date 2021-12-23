@@ -10,6 +10,7 @@ Recently I have moved into a career change completing a remote 16 week intensive
 Working as a coach helped me develop a strong competency in communication, leadership, managing difficult situations and working effectively with my peers. These skills were incredibly useful when working on group projects or in pairing tasks. Allowing me to ensure teams were always moving forward and enjoying the learning process. I received frequent commendation for this from my peers describing the working environment as calm, positive and productive.  
 
 As a person I am very reflective, value good social skills/honesty and have a high emotional awareness.
+<br>
 
 <img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
@@ -19,7 +20,7 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 <img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RAILS" src="images/Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
 
-<br/>
+---
 
 ## Projects
 
@@ -31,6 +32,7 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 
 <br/>
 
+---
 ## Work Experiance
 
 ## About
@@ -66,6 +68,7 @@ While travelling and before joining the Makers course I had worked many seasonal
 - **Emotional Intelligence:** Solving customer disputes/complaints with reasoning and understanding
 <br>
 
+---
 ## Skills 
 
 ### Leadership
@@ -95,6 +98,7 @@ Understanding that this issue was not clear I arranged to having a meeting to di
 This led to the group member choosing to leave the project due to being unwilling to work on a solution. I was praised by my group for my bravery in dealing with a difficult situation in a calm and honest way. Dealing with this difficult dynamic allowed the group to move forward and finish the project on time. I learned that it is best to be open and transparent at all times during collaborative work. Ultimately this allows teamwork to be much more productive and positive.
 <br/>
 
+---
 ## Education
 
 ### Makers Academy, London &nbsp;  &nbsp; &nbsp;  &nbsp; (28/06/2021 - 15/10/2021) 					
@@ -132,6 +136,7 @@ This led to the group member choosing to leave the project due to being unwillin
 - **Glasgow University Sports Association:** Snowsports Club Captain 2013 
 - **Duke of Edinburgh:** Gold
 
+---
 ## Hobbies and interests 
 **Outdoor Activities:**<br>
 In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
