@@ -43,8 +43,7 @@ While travelling and before joining the Makers course I had worked many seasonal
 | Employer, Country | Role |Dates|
 | ----------------- | ---- | --- | 
 |**Whistler Blackcomb**, Canada| Coach and Staff Trainer|November 2016 to April 2021 |  
-|**Thredbo Resort**, Australia|Moguls Coach/Instructor|June 2019 to September 2019|
-|**Whistler Sports Rentals**, Canada|Rental Assistant|April 2017 to October 2018   | 
+|**Thredbo Resort**, Australia|Moguls Coach/Instructor|June 2019 to September 2019| 
 |**Niseko Base Snowsports**, Japan|Snowsports Instructor|November 2015 to March 2016|
 |**Snow Factor**, Scotland|Snowsports Instructor|January 2011 to May 2015|
 
