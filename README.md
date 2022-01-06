@@ -47,8 +47,8 @@ While travelling and before joining the Makers course I had worked many seasonal
 |**Niseko Base Snowsports**, Japan|Snowsports Instructor|November 2015 to March 2016|
 |**Snow Factor**, Scotland|Snowsports Instructor|January 2011 to May 2015|
 
-- **Leadership:** Led training sessions for staff on etiquette and best practices. This ensured guests received a safe and enjoyable experience. 
-- **Teamwork:** Worked in teams delivering a season long development program for local children, communicating regularly with parents about progress, setting SMART goals and being adaptable to variable weather conditions. 
+- **Leadership:**  Led training sessions for staff on etiquette and best practices. Innovated by providing new ways of training, teaching and problem solving. Helping staff build confidence in their ability to lead clients.
+- **Teamwork:** Worked in teams delivering a season long development program for local children, communicating regularly with parents about progress, setting SMART goals and being adaptable to variable weather conditions.
 - **Communication:** Setting manageable expectations for clients, highlighting the positive steps as they showed improvement and adapting wording to ensure clear understanding.
 
 ### Shop Assistant
@@ -63,8 +63,8 @@ While travelling and before joining the Makers course I had worked many seasonal
 |**Ellis Brigham**, Scotland|Ski Boot Fitter|September 2014 to March 2015 |
 
 - **Organised/Adaptable:** Worked effectively in a high pace work environment, keeping on top of bookings, managing incoming calls, bookings and stock.
-- **Social Skills:** Interacted positively with customers to ensure the best possible customer service
-- **Emotional Intelligence:** Solving customer disputes/complaints with reasoning and understanding
+- **Social Skills:** Used a tailored approach with customers to ensure an empathetic and compassionate customer service.
+- **Emotional Intelligence:** Solving customer disputes/complaints with reasoning and understanding allowing fair resolutions to be reached.
 <br>
 
 ---
@@ -116,18 +116,14 @@ This led to the group member choosing to leave the project due to being unwillin
 ### University of Glasgow &nbsp;  &nbsp; &nbsp;  &nbsp; (09/2009 - 07/2014)
 
 *Bachelors of Electronics and Electrical Engineering*		
-
+**Audio Programming:** 
+- Introduced to Object Orientated design using Python 
+- Individual task driven learning 
+- 
 **Final Project:** 
 - Automation of Optical Test Equipment using LabVIEW
 - Developed using Laboratory Virtual Instrument Engineering Workbench (LabVIEW) 
 - Project used by PHD students to aid their research 
-
-**Audio Programming:** 
-- Introduced to Object Orientated design using Python 
-- Individual task driven learning 
-
-**Acoustics and Audio Technology:**
-- This course introduces the operation and design of loudspeakers, the nature of acoustics in various environments such as musical instruments and the influence of room surroundings.
 
  #### Other Qualifications/Achievements
 
