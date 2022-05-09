@@ -38,6 +38,22 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 ## About
 While travelling and before joining the Makers course I had worked many seasonal/temporary jobs. I have summarised my experience to date and I am happy to discuss my full working history in more detail.
 
+### Miesh.io - Junior Full Stack Javascript Developer
+
+**Description**
+Working within a small team constructing the onboarding flow, user authentication service and platform for Miesh.io clients. Created as Microservices which could function independently of one another using the MERN stack. This allowed greater flexibility than that of a monolithic system architecture. Microservices were conceptualised through use of sequence diagrams, technical architecture and flow diagrams. This allowed us to fully understand the layout of the Microservice, its unit test cases, end to end feature testing and visualise the success criteria. Stand ups would provide an opportunity to update on progress, query further information on tickets or highlight any blockers. A summary of my contributions can be found below: 
+
+Onboarding Microservice: 
+- Creating a progressive disclosure on the front end to collect user information in a clear and user friendly way. 
+- Developing secure backend routes to validate user information and send a verification email to users with a link to set their account password. 
+- Providing a login/logout service and password reset flow. 
+
+Platform Microservice: 
+- Designed the layout/functionality using MUI components and SAP success factors styling guidelines.
+- Developing role based permissions based on a user's persona and requirements. 
+- Managing User's notifications and permissions data through use of multiple collections sourced via a user id. 
+- Built a Notification service to send information between users and provide service updates/news.
+
 ### Trainer, Coach and Snowsports Instructor 
 
 | Employer, Country | Role |Dates|
