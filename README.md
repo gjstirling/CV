@@ -153,7 +153,7 @@ This led to the group member choosing to leave the project due to being unwillin
 ---
 ## Hobbies and interests 
 **Outdoor Activities:**<br>
-In particular snowsports, cycling and climbing. Experiancing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
+In particular snowsports, cycling and climbing. Experiencing the outdoors/elements is a great source of relaxation to me outside of working life. My holidays will always include some kind of outdoor physical activity.    
 
 **Formula One:**<br>
 What interests me in particular is the way team dynamics can boost performance and the mental resilience drivers need to overcome great external pressure. I also love listening to insights on technical innovations introduced by teams to give them a competitive edge and how strategy can determine the outcome of a race.
