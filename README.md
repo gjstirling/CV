@@ -12,6 +12,7 @@ Working as a coach helped me develop a strong competency in communication, leade
 As a person I am very reflective, value good social skills/honesty and have a high emotional awareness.
 <br>
 
+## Technologies I use 
 <img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
 <img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
