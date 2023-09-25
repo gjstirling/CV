@@ -5,7 +5,7 @@
 
 ## Summary 
 
-Recently I have moved into a career change completing a remote 16 week intensive bootcamp with Makers Academy. After spending the last five years living abroad working in the snow-sports industry I needed a new challenge and wanted a new career that allow me to grow professionally. This experience allowed me to understand how to become an effective learner. Accepting challenging tasks, using them as an opportunities to grow and improve. I am a strong believer in having a good working process by following best practices such as test driven development, isolation/single responsibility principle and working incrementally. Allowing my work to be clear, concise and fluid.   
+TODO: Add new description/intro 
 
 Working as a coach helped me develop a strong competency in communication, leadership, managing difficult situations and working effectively with my peers. These skills were incredibly useful when working on group projects or in pairing tasks. Allowing me to ensure teams were always moving forward and enjoying the learning process. I received frequent commendation for this from my peers describing the working environment as calm, positive and productive.  
 
@@ -13,25 +13,7 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 <br>
 
 ## Technologies I use 
-<img alt="JS" src="images/js_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RUBY" src="images/Ruby_logo.svg" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="HTML" src="images/HTML5.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="CSS" src="images/CSS3.svg.png" width="58">&nbsp;&nbsp;&nbsp;
-<img alt="REACT" src="images/React-icon.svg.png" width="120">&nbsp;&nbsp;&nbsp;
-<img alt="PSQL" src="images/Postgresql_elephant.svg.png" width="80">&nbsp;&nbsp;&nbsp;
-<img alt="RAILS" src="images/Ruby_On_Rails_Logo.svg.png" width="140">&nbsp;&nbsp;&nbsp;
-
----
-
-## Projects
-
-| Title               | About |Tools/Tech       |
-| ------------------- | ----- | --------------- |
-| [Chitter](https://github.com/gjstirling/Chitter.git)| A CRUD application that enables authenticated users to post ‘peeps’. <br><br> Developed my understanding of client/server relationship and modelling an application in a MVC structure. Learned about RESTful routes, database relationships and improved my ability to debug full stack applications. | Ruby, RSpec, Sinatra, Capybara, HTML, PostgreSQL|
-| [Bank](https://github.com/gjstirling/Bank-Tech-test) | An interview style tech test to create a bank account program using the command line. Users can create new account, withdraw, deposit and view their transaction history. <br> <br> This project strengthened my understanding of isolated testing, creating tests on behaviours and following requirements. Discovered using floats can cause rounding errors so manipulated them to integers for accurate calculations. Stabilised tests by using mock dates and creating a feature test that demonstrates the acceptance criteria.   | Ruby, RSpec |
-| [Code4Fun](https://github.com/moby-codes/makers-final-project)| A engineering team project creating a code agnostic learning application for children. <br><br> In this team project I learned how to work with others in an agile way. I helped develop the REACT front-end interface focusing on creating an easy to use child friendly application and reguarly guided the group to clearly define tasks for features. | React, Node.js, MongoDB, HTML, CSS  |
-
-<br/>
+To Add
 
 ---
 ## Work Experiance
@@ -39,7 +21,21 @@ As a person I am very reflective, value good social skills/honesty and have a hi
 ## About
 While travelling and before joining the Makers course I had worked many seasonal/temporary jobs. I have summarised my experience to date and I am happy to discuss my full working history in more detail.
 
-### Miesh.io - Junior Full Stack Javascript Developer
+### Capgemini: Scala Developer Worthing Live Services July 2022 - Present
+**Description**
+Managing and updating existing digital services for HMRC using the Scala play framework.
+Collaborating effectively with designers and business analysts to deliver changes/updates to
+fit the needs of the service. Praised for my ability to work independently and communicate
+concisely during stand ups/meetings. My responsibilities include:
+
+- Monitoring service usage with Kibana
+- Testing and Running deployment/production builds via Jenkins
+- Investigating and fixing bugs raised via user feedback
+- Creating/Updating Front-end pages using the HMRC component library
+- Developing unit/integration tests to assert controller and page behaviour
+
+
+### Miesh.io - Junior Full Stack Javascript Developer Feb 2022 - June 2022
 --------
 
 **Description**
